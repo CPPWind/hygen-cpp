@@ -1,0 +1,12 @@
+{
+  "name": "hygen-cpp",
+  "version": "1.0.0",
+  "description": "Hygen templates",
+  "main": "index.js",
+  "author": "Scott M Parrish",
+  "license": "MIT",
+  "dependencies": {
+    "change-case": "^3.1.0",
+    "inflection": "^1.12.0"
+  }
+}
